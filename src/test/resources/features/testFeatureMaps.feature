@@ -15,12 +15,12 @@
 
   Сценарий: Test user login generation
   Дано имя, фамилия, логин
-#  |name   |sname    |login  |
-#  |Basil  |TheWolf  |BTHEWOLF|
-#  |Peter  |TheFirst |PTHEFIRST|
-  |name   |Basil    |Peter  |
-  |sname  |TheWolf  |TheFirst|
-  |login  |BTHEWOLF |PTHEFIRST|
+  |name   |sname    |login  |
+  |Basil  |TheWolf  |BTHEWOLF|
+  |Peter  |TheFirst |PTHEFIRST|
+#  |name   |Basil    |Peter  |
+#  |sname  |TheWolf  |TheFirst|
+#  |login  |BTHEWOLF |PTHEFIRST|
 #    Если флаг утановлен в "рабочий"
 
 
